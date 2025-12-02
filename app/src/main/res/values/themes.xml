@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.LiteratureClock" parent="android:Theme.NoTitleBar.Fullscreen">
+        <!-- Clean, empty theme for maximum minimalism -->
+    </style>
+</resources>
